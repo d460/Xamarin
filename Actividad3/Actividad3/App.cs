@@ -12,6 +12,11 @@ namespace Actividad3
 					Text = "Hello, Forms!",
 					VerticalOptions = LayoutOptions.CenterAndExpand,
 					HorizontalOptions = LayoutOptions.CenterAndExpand,
+					BackgroundColor = Color.Black,
+					TextColor = Color.Green,
+					XAlign = TextAlignment.Start,
+					YAlign = TextAlignment.End,
+					
 				},
 			};
 		}
