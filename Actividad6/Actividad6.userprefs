@@ -1,4 +1,4 @@
-﻿<Properties>
+﻿<Properties StartupItem="Android\Actividad6.Android.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.1" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Actividad6/App.cs">
     <Files>
