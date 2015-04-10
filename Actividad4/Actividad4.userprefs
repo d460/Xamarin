@@ -1,5 +1,5 @@
 ﻿<Properties StartupItem="Android\Actividad4.Android.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_4_by_Google" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Android\MainActivity.cs">
     <Files>
       <File FileName="Android\MainActivity.cs" Line="1" Column="1" />

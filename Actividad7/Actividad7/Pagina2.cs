@@ -7,9 +7,18 @@ namespace Actividad7
 	{
 		public Pagina2 ()
 		{
-			Label texto = new Label {
+			Label texto2 = new Label {
 				Text = "Página 2",
 				TextColor = Color.Green
+			};
+
+			Button boton2 = new Button
+			{
+				Text = "Click para navegar a la página 3"
+			};
+
+			boton2.Clicked += (sender, e) => {
+				this.Navigation.PushAsync(new Pagina3());
 			};
 
 			//Stacklayout permite apilar los controles verticalmente
@@ -17,7 +26,8 @@ namespace Actividad7
 			{
 				Children =
 				{
-					texto
+					texto2,
+					boton2
 
 				}
 			};
