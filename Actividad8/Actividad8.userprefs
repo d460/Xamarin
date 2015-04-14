@@ -1,10 +1,10 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.1" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Actividad8/Login.cs">
+﻿<Properties StartupItem="Android\Actividad8.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Actividad8\Login.cs">
     <Files>
-      <File FileName="Actividad8/App.cs" Line="40" Column="40" />
-      <File FileName="Actividad8/Login.cs" Line="5" Column="5" />
-      <File FileName="Actividad8/Contenido.cs" Line="1" Column="1" />
+      <File FileName="Actividad8\App.cs" Line="1" Column="1" />
+      <File FileName="Actividad8\Login.cs" Line="19" Column="19" />
+      <File FileName="Actividad8\Contenido.cs" Line="28" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
