@@ -1,19 +1,11 @@
-﻿<Properties StartupItem="iOS/Actividad10.iOS.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.iPhone de JUAN MANUEL" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Actividad10/Contenido.cs">
+﻿<Properties StartupItem="Android\Actividad10.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Actividad10\Login.cs">
     <Files>
-      <File FileName="Actividad10/App.cs" Line="1" Column="1" />
-      <File FileName="Actividad10/Contenido.cs" Line="1" Column="1" />
+      <File FileName="Actividad10\App.cs" Line="2" Column="2" />
+      <File FileName="Actividad10\Contenido.cs" Line="5" Column="5" />
+      <File FileName="Actividad10\Login.cs" Line="38" Column="38" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="Actividad10" expanded="True">
-            <Node name="Contenido.cs" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
